@@ -1,0 +1,66 @@
+/* BookList.css */
+
+/* Styling for the entire container */
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+  }
+  
+  /* Styling for the table */
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+  }
+  
+  /* Styling for table headers */
+  th {
+    background-color: #007BFF;
+    color: white;
+    padding: 10px;
+  }
+  
+  /* Styling for table rows */
+  tr {
+    border-bottom: 1px solid #ccc;
+  }
+  
+  /* Styling for table data cells */
+  td {
+    padding: 10px;
+  }
+  
+  /* Styling for action buttons */
+  button {
+    background-color: #007BFF;
+    color: white;
+    padding: 5px 10px;
+    border: none;
+    cursor: pointer;
+    margin-right: 5px;
+  }
+  
+  /* Styling for input fields */
+  input {
+    padding: 5px;
+    margin: 5px;
+    width: 100%;
+  }
+  
+  /* Styling for the "Add New Book" section */
+  h2 {
+    margin-top: 20px;
+  }
+  
+  /* Styling for the save button */
+  #save-button {
+    background-color: #28A745;
+  }
+  
+  /* Styling for the link */
+  a {
+    text-decoration: none;
+    color: #007BFF;
+  }
